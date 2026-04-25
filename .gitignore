@@ -1,4 +1,9 @@
-*.out
 *.o
+*.obj
 *.exe
+*.out
+build/
+bin/
+.vscode/
 .DS_Store
+*.dSYM/
